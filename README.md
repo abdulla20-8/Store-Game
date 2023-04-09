@@ -1,5 +1,7 @@
 ## Store-Game
 
+"Store game" can refer to different things depending on the context. One possible interpretation is a physical game sold in a store, such as a board game, card game, or video game. These types of games can be purchased at various retail locations, including game stores, toy stores, and department stores.
+
 * This website let gamer purchase free game or this game that is publicly available world wide and have subscribe plan 
 
 * The backend come with 3 type of user 
